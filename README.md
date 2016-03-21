@@ -1,5 +1,3 @@
-# TestMarkdown
-
 # Owners (Side bar) #
 
  
@@ -15,29 +13,30 @@
  
 # What Is It? #
 
-///TODO: Describe what this area is and  how it relates to the rest of the product. Try to make this page a good overview page, but if it grows too big, please create subpages. Please remember, this documentation is for developers by developers.
+    ///TODO: Describe what this area is and  how it relates to the rest of the product. Try to make this page a good overview page, but if it grows too big, please create subpages. Please remember, this documentation is for developers by developers.
 
 
 # How to Use (User Documentation and Training) #
 
 ## Links to Existing User-Level Documentation ##
 
-///TODO: Provide links with descriptions of what each link points to
+
+    ///TODO: Provide links with descriptions of what each link points to
  
 ## Links to Training Manuals ##
 
 ## Links to Training Videos ##
 
 # How It Was Put Together (Architecture Overview) #
-
-///TODO: Please provide a diagram with a brief description. The purpose is to provide a high-level explanation of how the piece works
+    
+    ///TODO: Please provide a diagram with a brief description. The purpose is to provide a high-level explanation of how the piece works
             
-        Requirements
+        ## Requirements ##
          //TODO: Link to any requirements here,
  
-        Component(s) /Subsystems architecture high level
-//TODO: List the components that comprise the whole. E.g., for Architect, it would be Amendment Manager, Global Library, etc., if applicable. 
-
+        ## Component(s) /Subsystems architecture high level ##
+    //TODO: List the components that comprise the whole. E.g., for Architect, it would be Amendment Manager, Global Library, etc., if applicable. 
+    
 
 ## Database ##
 
@@ -56,10 +55,10 @@ Provide an ERD diagram of the relevant tables
 The links should have (Overview, Architecture detailed, High level classes, Diagnosing issues, Entry points, FAQs).
  
 # How to Diagnose (Diagnostic, Troubleshooting and Monitoring) #
-
-  //TODO: Provide a link to outside page(s) or to the child page
-Link to child page containing:
-How to diagnose common issues that might happen during setup of Rave, and customer usage of the functionality.
+    
+      `//TODO: Provide a link to outside page(s) or to the child page`
+    Link to child page containing:
+    How to diagnose common issues that might happen during setup of Rave, and customer usage of the functionality.
  
 # How to Debug (Debugging Entry Points) #
 
@@ -67,16 +66,17 @@ How to diagnose common issues that might happen during setup of Rave, and custom
 
 # Future #
   ## Planned changes ##
-   //TODO: Any known design changes planned? (link to pages/sub-pages as needed)
+   `//TODO: Any known design changes planned? (link to pages/sub-pages as needed)`
  
   ## Suggested improvements/ideas ##
-   //TODO: Any suggestions for improvements - link to pages/subpages as needed
+   `//TODO: Any suggestions for improvements - link to pages/subpages as needed`
  
-FAQs
+# FAQs #
 
-  //TODO: Any frequently asked questions and the answers that would be useful to developers, SQA
+  `//TODO: Any frequently asked questions and the answers that would be useful to developers, SQA`
 
 # 
 Revision History #
  
 Version	Date	Description	Author
+
