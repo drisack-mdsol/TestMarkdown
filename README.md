@@ -4,7 +4,7 @@
 ///TO DO: List owners, technical and product ones:
 
 
-| **Stakeholder**   | **Role  **                | 
+| **Stakeholder**   | **Role  **        | 
 | ------------- |:-------------:        | 
 |               | Solution Lead         | 
 |               | Business Analyst      | 
@@ -65,17 +65,26 @@ Provide an ERD diagram of the relevant tables
   //TODO: Specific project, File, Method useful entry points to diagnose issues.
 
 # Future #
-  ## Planned changes ##
+  
+##Planned changes##
+
    `//TODO: Any known design changes planned? (link to pages/sub-pages as needed)`
  
-  ## Suggested improvements/ideas ##
+## Suggested improvements/ideas ##
+
    `//TODO: Any suggestions for improvements - link to pages/subpages as needed`
  
 # FAQs #
 
   `//TODO: Any frequently asked questions and the answers that would be useful to developers, SQA`
 
-# 
-Revision History #
+ 
+#Revision History #
  
 Version	Date	Description	Author
+
+| **Version**   | **Date  **            |  **Author**     |
+| ------------- |:-------------:        | :-------------: | 
+|               |                       |                 |
+|               |                       |                 |
+|               |                       |                 |
