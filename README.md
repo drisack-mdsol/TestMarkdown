@@ -50,9 +50,9 @@ Provide an ERD diagram of the relevant tables
      //TODO: What data does this component/area/submodule rely on from other products/areas/systems
 
 # Technical Detail Links #
-
-  //TODO: Detailed Component/Subsystem links (if Components/subsystems exist)
-The links should have (Overview, Architecture detailed, High level classes, Diagnosing issues, Entry points, FAQs).
+    
+      //TODO: Detailed Component/Subsystem links (if Components/subsystems exist)
+    The links should have (Overview, Architecture detailed, High level classes, Diagnosing issues, Entry points, FAQs).
  
 # How to Diagnose (Diagnostic, Troubleshooting and Monitoring) #
     
@@ -79,4 +79,3 @@ The links should have (Overview, Architecture detailed, High level classes, Diag
 Revision History #
  
 Version	Date	Description	Author
-
